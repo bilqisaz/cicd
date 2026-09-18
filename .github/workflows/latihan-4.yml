@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       nama_siswa:
-        description: 'Tulis Nama Kamu'
+        description: 'Siswa TJKT'
         required: true
         default: 'Bilqis Az Zahra'
 
